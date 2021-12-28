@@ -19,7 +19,7 @@ function Join() {
     <div className="flex flex-col h-screen bg-gray-100">
       <div className="grid place-items-center my-auto">
         <h1 className="font-bold text-4xl pb-10 text-gray-900 antialiased">
-          Chat App 🦜
+          Topanga
         </h1>
         <form className="flex w-full max-w-sm space-x-3 justify-center">
           <div className="relative ">
